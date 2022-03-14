@@ -553,7 +553,7 @@ void graph2(long long Min, long long Max, long long n)
 
 int main()
 {
-     /*long long n, valMax;
+     long long n, valMax;
      int test;
 
      fin>>test; ///nr de teste
@@ -778,7 +778,7 @@ int main()
          cout<<"\n \n";
 
      }
-*/
+
     graph1(1000, 1000000000, 1000, 10000);
     cout<<"done";
 
